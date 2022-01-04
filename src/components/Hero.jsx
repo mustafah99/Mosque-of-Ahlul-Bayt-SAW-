@@ -8,7 +8,7 @@ import logo from "./framer/framer-media/images/logo.svg";
 import background from "./framer/framer-media/images/Karbala.jpg";
 
 const navigation = [
-  { name: "Prayer Times", href: "#" },
+  { name: "Prayer Times", href: "/prayertimes" },
   { name: "Donate", href: "#" },
   { name: "Contact Us", href: "#" },
   { name: "Find Us", href: "#" },
