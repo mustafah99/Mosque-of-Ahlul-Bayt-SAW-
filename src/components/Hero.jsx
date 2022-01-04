@@ -161,6 +161,7 @@ export default function Hero() {
                     borderRadius={20}
                     padding={13}
                     text="Latest Lecture"
+                    // Link to latest lecture on Imam Hussain TV3 SAW https://tools.tastethecode.com/youtube-latest/r/latestlecture.com
                     // Using default values:
                     alignment="center"
                     defaultBackground="rgb(0, 153, 255)"
