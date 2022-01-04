@@ -173,6 +173,7 @@ export default function Hero() {
                     fontSize={16}
                     hoverBackground="rgb(0, 119, 255)"
                     hoverTextColor="rgb(255, 255, 255)"
+                    to="https://www.youtube.com/watch?v=hiLT-TUE87Y&t=365s"
                     onClick={undefined}
                     onMouseEnter={undefined}
                     onMouseLeave={undefined}
