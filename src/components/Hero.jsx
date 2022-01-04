@@ -135,7 +135,7 @@ export default function Hero() {
                 <Button
                   borderRadius={20}
                   padding={13}
-                  text="Get Started"
+                  text="Find Us"
                   // Using default values:
                   alignment="center"
                   defaultBackground="rgb(0, 153, 255)"
@@ -160,7 +160,7 @@ export default function Hero() {
                   <GreyButton
                     borderRadius={20}
                     padding={13}
-                    text="Live Demo"
+                    text="Latest Lecture"
                     // Using default values:
                     alignment="center"
                     defaultBackground="rgb(0, 153, 255)"
