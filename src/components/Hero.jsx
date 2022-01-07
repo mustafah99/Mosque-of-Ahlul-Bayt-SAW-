@@ -37,8 +37,7 @@ export default function Hero() {
               >
                 <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                   <div className="flex items-center justify-between w-full md:w-auto">
-                    <a href="#">
-                      <span className="sr-only">Workflow</span>
+                    <a href="/">
                       <motion.img
                         whileHover={{
                           scale: 1.1,

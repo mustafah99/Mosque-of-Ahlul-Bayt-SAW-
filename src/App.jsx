@@ -1,7 +1,5 @@
 import * as React from "react";
 import "./App.css";
-import Hero from "./components/Hero";
-import Section from "./components/Section";
 import { Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import PrayerTimes from "./pages/PrayerTimes";

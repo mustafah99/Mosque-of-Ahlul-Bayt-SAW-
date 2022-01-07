@@ -1,12 +1,10 @@
 import React from "react";
 import { useEffect, useState } from "react";
-import { Button } from "@mui/material";
 import { Fragment } from "react";
 import { Popover, Transition } from "@headlessui/react";
 import { MenuIcon, XIcon } from "@heroicons/react/outline";
 import { motion } from "framer-motion";
 import logo from "../components/framer/framer-media/images/logo.svg";
-import background from "../components/framer/framer-media/images/Karbala.jpg";
 
 const navigation = [
   { name: "Prayer Times", href: "/prayertimes" },
@@ -45,8 +43,7 @@ const PrayerTimes = () => {
                 >
                   <div className="flex items-center flex-grow flex-shrink-0 lg:flex-grow-0">
                     <div className="flex items-center justify-between w-full md:w-auto">
-                      <a href="#">
-                        <span className="sr-only">Workflow</span>
+                      <a href="/">
                         <motion.img
                           whileHover={{
                             scale: 1.1,
